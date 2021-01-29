@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="github/master" />
+  </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
       <branch-storage>
@@ -72,6 +75,7 @@
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Test001" />
         <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Test001" />
       </list>
     </recent_temporary>
   </component>
